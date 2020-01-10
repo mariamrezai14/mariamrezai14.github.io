@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(255, 207, 247);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(201, 0, 168);
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: black;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: rgb(250, 120, 255);
+}
+.menu{
+    background-color: rgb(5, 3, 5);
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-family: 'Lobster', cursive;
+}
+p1{
+    font-family: 'Lobster', cursive;
+}
+th{
+    font-family: 'Girassol', cursive;
+}
+h3{
+    font-family: 'Lilita One', cursive;
+}
